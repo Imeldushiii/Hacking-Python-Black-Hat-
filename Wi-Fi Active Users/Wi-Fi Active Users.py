@@ -1,3 +1,4 @@
+#Creator Szymon "Imeldushiii" Kubiak
 import socket
 import threading
 import subprocess as p
