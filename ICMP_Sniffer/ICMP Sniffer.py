@@ -1,4 +1,5 @@
 #CREATOR SZYMON 'IMELDUSHII' KUBIAK
+#should be opened in cmd with admin permision
 import socket
 import os
 import threading
